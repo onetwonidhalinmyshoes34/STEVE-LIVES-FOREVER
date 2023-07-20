@@ -1,0 +1,38 @@
+.title {
+    color: brown;
+    text-align: center;
+    font-family: "Chakra Petch";
+    border: 10px groove #654321;
+}
+.Birthact-container{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+}
+.Skills-CONTAINER{
+    width: 100vw;
+    display: flex;
+    justify-content: space-evenly;
+    border: 5px ridge #FD5DA8;   
+}
+.image-container img {
+    height: 300px;
+}
+body  {
+    background-image: url("../images/12b.png");
+}
+h3 {
+  color: aliceblue;
+}
+h4 {
+    color: azure;
+}
+h2 {
+    color:  #FC46AA;
+}
+li {
+    color: #6CB4EE;
+}
+p {
+    color: #FF033E;
+}
