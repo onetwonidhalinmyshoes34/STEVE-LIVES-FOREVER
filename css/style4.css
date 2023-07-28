@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+    gap: 30px;
+    flex-direction: column;
+}
+
+p{
+    width:70vw;
+}
+
+
+p span {
+    color: red;
+}
